@@ -9,3 +9,6 @@ $> git add [nom_fichier_ou_dossier]
 $> git status
 // Après avoir modifié un fichier (index.html par exemple)
 $> git commit -m "Description des modifications"
+
+ATTENTION !!!!!!! TU VIENS DE TE FAIRE FORKER !!!!!!!!!
+:3
